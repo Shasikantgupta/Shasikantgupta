@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hii👋 I'm Shashikant Gupta
 🔭 Working on data pipelines & analytics projects<br>👯 Open to collaborate on data/ML projects<br>🌱 Learning data engineering & advanced Python<br>💬 Ask me about Python, SQL & dashboards<br>⚡ Love turning raw data into business insights
 
 
