@@ -1,5 +1,5 @@
 # 💫 Hii👋 I'm Shashikant Gupta
-🔭 Working on data pipelines & analytics projects<br>👯 Open to collaborate on data/ML projects<br>🌱 Learning data engineering & advanced Python<br>💬 Ask me about Python, SQL & dashboards<br>⚡ Love turning raw data into business insights
+🔭 Working on Productivity Tracker project & analytics projects<br>👯 Open to collaborate on data/ML projects<br>🌱 Learning data engineering & advanced Python<br>💬 Ask me about Python, SQL & dashboards<br>⚡ Love turning raw data into business insights
 
 
 ## 🌐 Socials:
@@ -15,8 +15,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shasikantgupta&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shasikantgupta&limit=5&theme=dark&combine_all_yearly_contributions=true)
