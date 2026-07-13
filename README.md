@@ -1,39 +1,42 @@
 
 ```
-                                                  shashikant@github ─────────────────────────────
-  ██████╗ ██╗  ██╗ █████╗ ███████╗██╗  ██╗        OS: ........................ Windows 11, Linux
-  ██╔═══╝ ██║  ██║██╔══██╗██╔════╝██║  ██║        Uptime: .............. 2+ years in Data & AI
-  ██████╗ ███████║███████║███████╗███████║         Host: .................. CoderCops (Tech Ops)
-  ╚═══██║ ██╔══██║██╔══██║╚════██║██╔══██║         Kernel: ............ Data Analyst & AI/ML Dev
-  ██████║ ██║  ██║██║  ██║███████║██║  ██║         IDE: ......... VS Code, Jupyter, IntelliJ IDEA
-  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝         Resolution: ............ 1920x1080, always
-                                                   Shell: .................. PowerShell, Bash
-    ███████╗                                       
-    ██╔════╝  ╔══╗                                 Languages.Programming: ...... Python, SQL, DAX
-    ██║ ╔══╗  ║  ║                                 Languages.Viz_&_BI: ... Power BI, Tableau, Looker
-    ██║ ╚══╝  ║  ║                                 Languages.Computer: ... HTML, CSS, JSON, YAML
-    ╚███████╗ ╚══╝                                 Languages.Real: ........... English, Hindi
-    ╚═══════╝                                      
-                                                   Hobbies.Data: .. Analytics, ML, Dashboarding
-                                                   Hobbies.Cloud: ................ AWS, Azure, GCP
-                                                   Hobbies.Automation: ....... Workflow, Pipeline
-                                                   
-                                                   ─ Contact ──────────────────────────────────────
-                                                   Email: ........... shashikantgupta163@gmail.com
-                                                   LinkedIn: .... in/shashikant-gupta-0b7799254
-                                                   GitHub: .................. Shasikantgupta
-                                                   
-                                                   ─ GitHub Stats ─────────────────────────────────
-                                                   Repos: ...... 12  |  Stars: ................ 7
-                                                   Followers: ... 0  |  Following: ............ 1
-                                                   Badge: .......................... ⭐ Pro
+  _----_-__----_---_+<><~~~++_-----______-----_   shashikant@github ─────────────────────────────
+  ..............   ';-{?<!l;:`     ............   
+            .   ,]Z*#@@##$##&MboX~' .             OS: ........................ Windows 11, Linux
+           .  +C8@@@@@@$@@@@@@@@@@w> .            Uptime: .............. 2+ years in Data & AI
+          ..lk@@@@@%&$$%W*woZp#@@@@h` .           Host: .................. CoderCops (Tech Ops)
+          ..d@$8*qOJ\()[_+~~_[\oB@@*);.           Kernel: ............ Data Analyst & AI/ML Dev
+         . `8@#OX|{-~>iii>i>+]}{Xw@@%Zl .         IDE: ......... VS Code, Jupyter, IntelliJ IDEA
+          .'m@b/JUX(-!;:,,;>[)\/|JW@@h! .         Resolution: ............ 1920x1080, always
+          . Y#(XakohwQ(+I]\bmOOaC\0@h:'           Shell: .................. PowerShell, Bash
+         ..iQm{/bkbh/oC)_XQQ\dkph\\&(' .          
+         . -Cb{}1)}[[1\-I}J1?[{)1[(m/, .          Languages.Programming: ...... Python, SQL, DAX
+         . -JO11?+<!;{Y}>/[i<~+?{|h1` .          Languages.Viz_&_BI: ... Power BI, Tableau, Looker
+         . !Od(([_<!-YmqQqo{ll_[(\Yp(' .          Languages.Computer: ... HTML, CSS, JSON, YAML
+           .;ZU|{]U*MwmQ0qM**C}{//U+`.            Languages.Real: ........... English, Hindi
+           . ,CU|)Z0///CCJJUkqJJCC!               
+            . ^XO0J(}?-[]_-{|J0Oa~ ..             Hobbies.Data: .. Analytics, ML, Dashboarding
+             . )qw8MqmqdpwqqWB*w):'               Hobbies.Cloud: ................ AWS, Azure, GCP
+            '.>kOCa*#@#&&@@$BkZQwJ .              Hobbies.Automation: ....... Workflow, Pipeline
+           .".>wZUJJQhhoQkhZJ/YUdX . .....        
+     ..   .. . 1Z//((J/\\/\(\J\(C( ..  .'. ..     ─ Contact ──────────────────────────────────────
+  .       ^I^  `+{1{?[{11}][1{[}|!   ;I.   .`^^   Email: ........... shashikantgupta163@gmail.com
+  ;` .  .";",''  :?-~<<~~<~+_-??; ."l!>`     '`   LinkedIn: .... in/shashikant-gupta-0b7799254
+  ^..    .`. ...' "+~<<><><<>>I` .'``             GitHub: .................. Shasikantgupta
+             ..  `.;]??--??-_"   .            .   
+  .",,    . 'I;^"...~)11{{}[: .'^.  .  '^...      ─ GitHub Stats ─────────────────────────────────
+  '^`,'    ..^^"'.   i[----, ..`'      `^^"'      Repos: ...... 12  |  Stars: ................ 7
+                 ,l," I+>+: .            ...'..   Followers: ... 0  |  Following: ............ 1
+   .      .`` .. .`"I` l~! .          .    `,;'   Badge: .......................... ⭐ Pro
+  l.....'',i,..... `^..'+",'.......''^ ,....,;.   
+  1?----}[[}?-----------}]}-------]}][[?----?--   
 ```
 
 <div align="center">
 
 ## 👋 Hey there! I'm **Shashikant Gupta**
 
-### 📊 Data Analyst | 🤖 AI/ML Enthusiast | 🐍 Python Developer
+### 📊 Data Analyst | 🤖 AI/ML Enthusiast | 🐍 Data Science
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Turning+Data+Into+Actionable+Insights+📈;Building+Intelligent+Dashboards+📊;Automating+Workflows+With+Python+🐍;Making+AI+Work+For+Business+🤖" alt="Typing SVG" />
 
