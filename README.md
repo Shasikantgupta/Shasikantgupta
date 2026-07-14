@@ -1,18 +1,18 @@
 
-```                               shashikant@github ─────────────────────────────
+```                                   shashikant@github ─────────────────────────────
   
-                                    OS: ........................ Windows 11, Linux
-                                     Uptime: .............. 2+ years in Data & AI
-                                    Host: .................. CoderCops (Tech Ops)
-                                    Kernel: ............ Data Analyst & AI/ML Dev
-                                    IDE: ......... VS Code, Jupyter, IntelliJ IDEA
-                                      Resolution: ............ 1920x1080, always
-                                      Shell: .................. PowerShell, Bash
+                                      OS: ........................ Windows 11, Linux
+                                       Uptime: .............. 2+ years in Data & AI
+                                      Host: .................. CoderCops (Tech Ops)
+                                      Kernel: ............ Data Analyst & AI/ML Dev
+                                      IDE: ......... VS Code, Jupyter, IntelliJ IDEA
+                                        Resolution: ............ 1920x1080, always
+                                        Shell: .................. PowerShell, Bash
                 
-                                     Languages.Programming: ...... Python, SQL, DAX
-                                    Languages.Viz_&_BI: ... Power BI, Tableau, Looker
-                                      Languages.Computer: ... HTML, CSS, JSON, YAML
-                                        Languages.Real: ........... English, Hindi
+                                       Languages.Programming: ...... Python, SQL, DAX
+                                      Languages.Viz_&_BI: ... Power BI, Tableau, Looker
+                                        Languages.Computer: ... HTML, CSS, JSON, YAML
+                                         Languages.Real: ........... English, Hindi
                          
                                        Hobbies.Data: .. Analytics, ML, Dashboarding
                                       Hobbies.Cloud: ................ AWS, Azure, GCP
