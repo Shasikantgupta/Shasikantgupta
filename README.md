@@ -35,7 +35,7 @@
 
 ### 📊 Data Analyst | 🤖 AI/ML Enthusiast | 🐍 Python Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Turning+Data+Into+Actionable+Insights+📈;Building+Intelligent+Dashboards+📊;Automating+Workflows+With+Python+🐍;Making+AI+Work+For+Business+🤖" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Turning+Data+Into+Actionable+Insights+📈;Building+Intelligent+Dashboards+📊;Automating+Workflows+With+Python+🐍;Making+AI+Work+For+Business+🤖" alt="" />
 
 </div>
 
