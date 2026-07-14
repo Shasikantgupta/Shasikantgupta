@@ -192,11 +192,8 @@ fun_fact: >
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shasikantgupta/Shasikantgupta/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shasikantgupta/Shasikantgupta/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Shasikantgupta/Shasikantgupta/output/github-contribution-grid-snake.svg">
-</picture>
+![Dark Snake](https://raw.githubusercontent.com/Shasikantgupta/Shasikantgupta/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Light Snake](https://raw.githubusercontent.com/Shasikantgupta/Shasikantgupta/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 </div>
 
