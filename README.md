@@ -190,11 +190,9 @@ fun_fact: >
 
 ### 🐍 Contribution Graph Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Shasikantgupta/Shasikantgupta/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
+<p align="center">
+  <img src="https://github.com/Shasikantgupta/Shasikantgupta/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="Snake animation" />
+</p>
 
 ---
 
