@@ -3,7 +3,7 @@
   
                                       OS: ........................ Windows 11, Linux
                                        Uptime: .............. 2+ years in Data & AI
-                                      Host: .................. CoderCops (Tech Ops)
+                                       Host: .................. CoderCops (Tech Ops)
                                       Kernel: ............ Data Analyst & AI/ML Dev
                                       IDE: ......... VS Code, Jupyter, IntelliJ IDEA
                                         Resolution: ............ 1920x1080, always
@@ -14,9 +14,9 @@
                                         Languages.Computer: ... HTML, CSS, JSON, YAML
                                          Languages.Real: ........... English, Hindi
                          
-                                       Hobbies.Data: .. Analytics, ML, Dashboarding
+                                        Hobbies.Data: .. Analytics, ML, Dashboarding
                                       Hobbies.Cloud: ................ AWS, Azure, GCP
-                                      Hobbies.Automation: ....... Workflow, Pipeline
+                                       Hobbies.Automation: ....... Workflow, Pipeline
                
                                       ─ Contact ──────────────────────────────────────
   .                                    Email: ........... shashikantgupta163@gmail.com
